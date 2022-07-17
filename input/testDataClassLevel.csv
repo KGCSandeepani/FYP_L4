@@ -1,0 +1,26 @@
+Package,Class,Lines of Code,Cyclomatic Complexity,Weight Methods per Class,Depth of Inheritance Tree,Number of Children,Coupling between Objects,Response for Class,Lack of Cohesion of Methods
+com.github.chrisbanes.photoview,Util.java,29,5,5,1,0,1,4,0
+com.github.chrisbanes.photoview,Compat.java,19,3,3,1,0,1,5,0
+com.github.chrisbanes.photoview,PhotoViewAttacher.java,622,107,93,1,0,1,117,45
+com.github.chrisbanes.photoview,CustomGestureDetector.java,142,10,25,1,0,1,11,7
+com.github.chrisbanes.photoview,OnPhotoTapListener.java,5,1,1,0,2,1,1,0
+com.github.chrisbanes.photoview,OnSingleFlingListener.java,5,1,1,0,1,1,1,0
+com.github.chrisbanes.photoview,OnGestureListener.java,6,3,3,0,1,1,3,0
+com.github.chrisbanes.photoview,OnViewTapListener.java,5,1,1,0,0,1,1,0
+com.github.chrisbanes.photoview,OnScaleChangedListener.java,4,1,1,0,0,1,1,0
+com.github.chrisbanes.photoview,OnViewDragListener.java,4,1,1,0,0,1,1,0
+com.github.chrisbanes.photoview,OnOutsidePhotoTapListener.java,5,1,1,0,0,1,1,0
+com.github.chrisbanes.photoview,PhotoView.java,169,45,45,0,0,2,104,39
+com.github.chrisbanes.photoview,OnMatrixChangedListener.java,5,1,1,0,1,1,1,0
+com.github.chrisbanes.photoview.sample,LauncherActivity.java,79,7,7,0,0,1,2,0
+com.github.chrisbanes.photoview.sample,ActivityTransitionToActivity.java,10,1,1,0,0,1,2,0
+com.github.chrisbanes.photoview.sample,HackyViewPager.java,21,4,4,0,0,1,4,0
+com.github.chrisbanes.photoview.sample,ImageViewHolder.java,20,3,3,0,0,2,5,0
+com.github.chrisbanes.photoview.sample,HackyDrawerLayout.java,18,3,3,0,0,1,3,0
+com.github.chrisbanes.photoview.sample,ActivityTransitionActivity.java,35,3,3,0,0,2,5,0
+com.github.chrisbanes.photoview.sample,RotationSampleActivity.java,71,5,5,0,0,1,9,4
+com.github.chrisbanes.photoview.sample,SimpleSampleActivity.java,125,6,6,1,0,2,4,2
+com.github.chrisbanes.photoview.sample,ViewPagerActivity.java,35,5,5,0,0,1,2,0
+com.github.chrisbanes.photoview.sample,ImageAdapter.java,28,5,5,0,1,1,4,0
+com.github.chrisbanes.photoview.sample,ImmersiveActivity.java,50,8,8,0,0,1,6,0
+com.github.chrisbanes.photoview.sample,PicassoSampleActivity.java,13,1,1,0,0,1,2,0
